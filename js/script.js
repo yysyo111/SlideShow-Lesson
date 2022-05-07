@@ -22,3 +22,5 @@ $(".theTarget").skippr({
   hidePrevious : false
 });
 
+// 「スライドショーをどのように動かすのか」をパラメータとして設定
+
